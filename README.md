@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soohwan Kim:
 I'm a senior Computer Science student at Texas A&M specializing in frontend development using React.js and Next.js
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 🌐 Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/williamkang24](https://www.linkedin.com/in/soohwan-kim-8724801bb/)) 
