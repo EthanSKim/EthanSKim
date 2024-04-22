@@ -41,6 +41,8 @@ I'm a senior Computer Science student at Texas A&M specializing in frontend deve
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
+&nbsp;
 
 ## 👾  What I am interested in learning at some point
 
@@ -48,8 +50,7 @@ I'm a senior Computer Science student at Texas A&M specializing in frontend deve
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
+
 
 
 [tech_tools_anchor]: #bonjour--
