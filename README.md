@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Soohwan Kim:
-I'm a senior Computer Science student at Texas A&M specializing in frontend development using React.js and Next.js
+I'm a Software Development Engineer specializing in frontend development using Typescript framworks.
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
